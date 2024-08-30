@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a Profile Cluster Prediction machine learning model, developed as part of the research conducted in my Master’s thesis titled "AI-Powered Personalized Social Engineering: Merging Machine Learning with Trait-Driven Persuasion Tactics" at the German International University. The primary objective of this project is to categorize individuals into distinct psychological and behavioral clusters based on web-based influential features and predict the appropriate cluster for newly added individuals. This approach leverages insights from psychology, particularly Cialdini's principles of persuasion and the Big Five personality traits, to enhance the effectiveness of personalized social engineering attacks.
+This repository contains the implementation of a Profile Cluster Prediction machine learning model, developed as part of the research conducted in my Master’s thesis titled "AI-Powered Personalized Social Engineering: Merging Machine Learning with Trait-Driven Persuasion Tactics" at the German International University. The primary objective of this project is to categorize individuals into distinct psychological and behavioral clusters based on web-based influential features and predict the appropriate cluster for newly added individuals.
 
 ## Features
 
@@ -13,16 +13,11 @@ This repository contains the implementation of a Profile Cluster Prediction mach
 
 ## Project Structure
 
-- `data/`: Contains the datasets used for training and testing the models.
-- `models/`: Includes the clustering and prediction models implemented in the project.
-- `notebooks/`: Jupyter notebooks with detailed steps for data preprocessing, model training, and evaluation.
-- `src/`: Core source code for the machine learning algorithms and utility functions.
-- `results/`: Stores the output results, including model performance metrics and visualizations.
 - `README.md`: This document, providing an overview of the project and instructions for use.
 
 ## Usage
 
-After setting up the environment and training the model, you can use the provided scripts to analyze new datasets or explore the clustering results. Detailed instructions for each step are provided in the Jupyter notebooks within the `notebooks/` directory.
+After setting up the environment and training the model, you can use the provided scripts to analyze new datasets or explore the clustering results.
 
 ## Contributions
 
